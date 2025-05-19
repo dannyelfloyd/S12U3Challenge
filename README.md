@@ -21,7 +21,7 @@ Para entregar el ejercicio del **TEAM CHALLENGE**:
   - Subir al repositorio el documento.
 Si tienes alguna duda contacta con tu LI o con TA para resolverla.
 
-> ## Solución de SQL Murder Mystery:
+> ## SQL Murder Mystery:
 > 
 > Can you find out whodunnit?
 > 
@@ -63,7 +63,12 @@ Change the value of 'name' to see the structure of the other tables you learned 
 >
 > Use your knowledge of the database schema and SQL commands to find out who committed the murder.
 > When you think you know the answer, go to the next section.
->>
+>
+> ## Resolución:
+> 
+>> ![step1,screenshot](/assets/images/img3.png)
+>> ![step2,screenshot](/assets/images/img4.png)
+>> ![step3,screenshot](/assets/images/img5.png)
 
 > ## Check your solution
 > Did you find the killer?
