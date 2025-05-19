@@ -71,10 +71,12 @@ Change the value of 'name' to see the structure of the other tables you learned 
 >> ![step2,screenshot](/assets/images/img5.png)
 >> ![step3,screenshot](/assets/images/img6.png)
 >> ![step3,screenshot](/assets/images/img7.png)
+>> ![step3,screenshot](/assets/images/img8.png)
 
 > ## Check your solution
 > Did you find the killer?
 >> INSERT INTO solution VALUES (1, 'Insert the name of the person you found here'); SELECT value FROM solution;
+>> ![step3,screenshot](/assets/images/img9.png)
 
 > ## Credits
 > The SQL Murder Mystery was created by Joon Park and Cathy He while they were Knight Lab fellows. See the GitHub repository for more information.
