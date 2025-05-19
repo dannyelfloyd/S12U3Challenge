@@ -68,7 +68,9 @@ Change the value of 'name' to see the structure of the other tables you learned 
 > 
 >> ![step1,screenshot](/assets/images/img3.png)
 >> ![step2,screenshot](/assets/images/img4.png)
->> ![step3,screenshot](/assets/images/img5.png)
+>> ![step2,screenshot](/assets/images/img5.png)
+>> ![step3,screenshot](/assets/images/img6.png)
+>> ![step3,screenshot](/assets/images/img7.png)
 
 > ## Check your solution
 > Did you find the killer?
